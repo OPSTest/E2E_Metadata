@@ -1,5 +1,5 @@
 # [Index](index.md)
-# [Common](common.md)
+# [Common](https://ppe.docs.microsoft.com/en-us/E2E_Metadata/common?branch=master)
 # [Include](include.md)
 # [Href](href.md)
 # [YAML Header](yamlHeader.md)
