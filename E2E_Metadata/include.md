@@ -1,1 +1,1 @@
-Other inline content[!include[<IncludeTesting>](includefile.md)]
+Other inline content[!include[<IncludeTesting>]('includefile.md')]
