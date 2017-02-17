@@ -6,6 +6,17 @@ Other inline content...[!include[<IncludeTesting>](<includefile.md>)]
 [!include[<IncludeTesting>](<includefile.md>)]
 
 ## Notes
+[!NOTE]
+This is a NOTE
+
+[!WARNING]
+This is a WARNING
+
+[!TIP]
+This is a TIP
+
+[!IMPORTANT]
+This is IMPORTANT
 
 ## Links
 
